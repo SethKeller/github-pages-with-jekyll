@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 1382-15-56
 ---
 This tutorial is long and a pain.
