@@ -1,0 +1,11 @@
+title: Uh, no clue what to put here
+author: ME
+email: I'll keep my email private thank you
+description: > # this means to ignore newlines until "baseurl:"
+ What if I don't want to add a description?
+
+# social links
+Why would anyone have a twitter?
+github_username: I, dont know that it is actually # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
